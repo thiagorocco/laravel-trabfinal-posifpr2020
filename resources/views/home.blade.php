@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    <span class="text-sucess">Login efetuado com sucesso!</span><br><br>
+                    <span class="text-success">Login efetuado com sucesso!</span><br><br>
                     <h2 class="bg bg-success m-1 p-4 text-center"><a href="/series" class="text text-light">Lista de séries clique aqui!</a></h2>
                 </div>
             </div>
